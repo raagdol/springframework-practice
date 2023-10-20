@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ae9de4c2-187d-4ec9-9250-f5ce9fbb9342" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/springframework/member/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springframework/member/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/root-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/root-context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "spring.configuration.checksum": "9dc3a29d9455b1916d71d440caa1fb7b",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -111,7 +117,9 @@
       <workItem from="1697601022564" duration="657000" />
       <workItem from="1697605397960" duration="1693000" />
       <workItem from="1697607794431" duration="1559000" />
-      <workItem from="1697614111567" duration="10303000" />
+      <workItem from="1697614111567" duration="16360000" />
+      <workItem from="1697769936214" duration="2513000" />
+      <workItem from="1697780832070" duration="5663000" />
     </task>
     <servers />
   </component>
